@@ -1,0 +1,31 @@
+FACILITATORS
+total revenue from january to february and should be sortable by year
+sales by categories
+sales by course
+revenue by courses created
+list of reviews and rating per course created by a facilitator
+total number of students subscribed to a facilitator
+sales earnings over the last 30days
+sales earnings after expertplat fees
+List of sales invoices per month
+view/download of sales invoices
+
+
+ADMIN
+total revenue from january to february and should be sortable by year
+sales by categories
+sales by course
+highest sale by facilitaor
+highest sale by course
+list of reviews and rating per course
+Average revenue per facilitator
+total number of refunds
+total revenue in figures
+affiliate revenue
+top performing course
+approval and editing/deleting of reviews and ratings before going live
+
+GENERAL
+addition of rating to the course object response as requested earlier
+duration for course video uploaded
+best selling course
